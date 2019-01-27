@@ -2,10 +2,13 @@
 OpenCV
 
 Step 1
-python data_gatering.py
+mkdir dataset
 
 Step 2
-python trainer.py
+python data_gatering.py
 
 Step 3
+python trainer.py
+
+Step 4
 python recognizer.py
